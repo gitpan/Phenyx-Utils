@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Phenyx-Utils
-version: 0.0.1
+version: 0.0.2
 author:
   - |-
     Alexandre Masselot <Alexandre_dot_masselot_at_genebio_dot_com>
@@ -19,5 +19,5 @@ requires:
 provides:
   Phenyx::Utils:
     file: lib/Phenyx/Utils.pm
-    version: 0.0.1
+    version: 0.0.2
 generated_by: Module::Build version 0.24
